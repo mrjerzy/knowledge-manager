@@ -1,0 +1,25 @@
+{
+  "name": "knowledge-manager",
+  "version": "0.0.1",
+  "description": "graph based knowledge management database",
+  "main": "knowledge-mgr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjerzy/knowledge-manager.git"
+  },
+  "keywords": [
+    "knowledge"
+  ],
+  "author": "mrjerzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjerzy/knowledge-manager/issues"
+  },
+  "homepage": "https://github.com/mrjerzy/knowledge-manager#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
